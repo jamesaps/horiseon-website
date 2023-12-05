@@ -6,6 +6,8 @@ Horiseon is an online marketing solutions company. In the spirit of ensuring tha
 
 Semantic HTML is used throughout where possible, titles are descriptive, alt tags are used to support assistive technologies, CSS selectors are appropriately concise, the codebase is also supported by meaningful and contextual comments to support readability. 
 
+![Website Screenshot](./assets/images/website-screenshot.png)
+
 ## Installation
 
 Please clone this repository with the following command in your terminal:
