@@ -13,12 +13,12 @@ Semantic HTML is used throughout where possible, titles are descriptive, alt tag
 Please clone this repository with the following command in your terminal:
 
 ```
-git clone [https://github.com/jamesaps/horiseon-website.git](https://github.com/jamesaps/horiseon-website.git)
+git clone https://github.com/jamesaps/horiseon-website.git
 ```
 
 ## Usage
 
-This site is set up to automatically redeploy to github pages when amendments are committed to the main branch of this repository.
+This site is set up to automatically redeploy to github pages when amendments are committed to the main branch of this repository. The live version of the site is hosted [here](https://jamesaps.github.io/horiseon-website).
 
 ## Credits
 
@@ -26,7 +26,7 @@ Starter code for this project was provided by edX Boot Camps LLC.
 
 ## License
 
-Licensed under the [https://github.com/jamesaps/horiseon-website/blob/main/LICENSE](MIT) license.
+Licensed under the [MIT](https://github.com/jamesaps/horiseon-website/blob/main/LICENSE) license.
 
 ## Badges
 
